@@ -16,10 +16,10 @@ Improved Reporting: Developed custom reports for various departments, improving 
 Technologies Used:
 
 # Database: PHPMyAdmin (MySQL)
-Host: sql12.freesqldatabase.com
-Database name: sql12713473
-Database user: sql12713473
-Database password: En2DWY1RjL
+Host: sql12.freesqldatabase.com\
+Database name: sql12713473\
+Database user: sql12713473\
+Database password: En2DWY1RjL\
 Port number: 3306
 
 # Programming: Python
